@@ -7,16 +7,25 @@ body {
 h1 {
   color: #bb2c13;
   background-color: antiquewhite;
+  border: 2px solid #ccc;
 }
 .video-frame {
-  background-color: #000000;  /* Light canvas-like color */
+    background-color: #fefae0;  /* Light canvas-like color */
   padding: 30px 60px;         /* Top-bottom / left-right padding */
   display: inline-block;
-  border: 2px solid #000000;     /* Optional: border like a canvas */
+  border: 2px solid #ccc;     /* Optional: border like a canvas */
   border-radius: 12px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Optional shadow */
+
+
 }
 .text-frame {
-    background-color: aqua;
-    padding: 30px 60px;
+    background-color: #fefae0;  /* Light canvas-like color */
+  padding: 30px 60px;         /* Top-bottom / left-right padding */
+  display: inline-block;
+  border: 2px solid #ccc;     /* Optional: border like a canvas */
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Optional shadow */
+   
+    
 }
