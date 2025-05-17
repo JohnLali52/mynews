@@ -6,8 +6,11 @@ body {
 
 h1 {
   color: #bb2c13;
-  background-color: antiquewhite;
-  border: 2px solid #ccc;
+  background-color: rgb(237, 142, 18);
+  border: 2px solid #bebec0;
+  border-radius: 12px;
+  display: inline-block;
+
 }
 .video-frame {
     background-color: #211f1f;  /* Light canvas-like color */
