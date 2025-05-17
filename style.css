@@ -10,20 +10,20 @@ h1 {
   border: 2px solid #ccc;
 }
 .video-frame {
-    background-color: #fefae0;  /* Light canvas-like color */
+    background-color: #211f1f;  /* Light canvas-like color */
   padding: 30px 60px;         /* Top-bottom / left-right padding */
   display: inline-block;
-  border: 2px solid #ccc;     /* Optional: border like a canvas */
+  border: 2px solid #000000;     /* Optional: border like a canvas */
   border-radius: 12px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Optional shadow */
 
 
 }
 .text-frame {
-    background-color: #fefae0;  /* Light canvas-like color */
+    background-color: aqua;
   padding: 30px 60px;         /* Top-bottom / left-right padding */
   display: inline-block;
-  border: 2px solid #ccc;     /* Optional: border like a canvas */
+  border: 2px solid #25797b;     /* Optional: border like a canvas */
   border-radius: 12px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Optional shadow */
    
