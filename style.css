@@ -1,17 +1,17 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #8cc66f;
+  background-color: #a2baea;
   color: #4bab2e;
 }
 
 h1 {
-  color: #0070f3;
+  color: #bb2c13;
 }
 .video-frame {
-  background-color: #fefae0;  /* Light canvas-like color */
+  background-color: #000000;  /* Light canvas-like color */
   padding: 30px 60px;         /* Top-bottom / left-right padding */
   display: inline-block;
-  border: 2px solid #ccc;     /* Optional: border like a canvas */
+  border: 2px solid #000000;     /* Optional: border like a canvas */
   border-radius: 12px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Optional shadow */
 }
